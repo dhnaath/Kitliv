@@ -1,0 +1,6 @@
+{
+  "name": "OmniManage",
+  "description": "Unified personal, finance, business, and life management application combining Wirapreneur, FinancePile, and CreditManage features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
